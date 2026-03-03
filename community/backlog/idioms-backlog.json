@@ -951,7 +951,7 @@
     "meaning": "Impatient temperament. (Set 6)",
     "id": 106,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腹が立つ",
@@ -960,7 +960,7 @@
     "meaning": "Get angry. (Set 6)",
     "id": 107,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "手を抜く",
@@ -968,7 +968,7 @@
     "english": "Cut corners",
     "meaning": "Do less than one should. (Set 6)",
     "id": 108,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
